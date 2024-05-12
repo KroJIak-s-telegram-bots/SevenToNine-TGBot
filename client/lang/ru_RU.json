@@ -1,0 +1,15 @@
+{
+  "lang.countryflag": "\uD83C\uDDF7\uD83C\uDDFA",
+
+  "start.message": "Привет, %{}%! Я - бот...",
+  "success.message": "Операция успешно выполнена.",
+  "error.message": "<b>[Ошибка]:</b> <span class=\"tg-spoiler\">%{}%</span>",
+  "unknown.command.message": "Неизвестная команда.",
+
+  "permissions.cancel": "well well well...",
+
+  "warn.private.message": "<b>Внимание!</b> Ботом можно пользоваться только в группах. Добавьте бота и выдайте доступ к сообщениям (админа).",
+
+  "button.game.start": "Начать игру",
+  "button.changelang": "%{}% Сменить язык %{}%"
+}

@@ -1,0 +1,14 @@
+{
+    "users": {
+        "0000000000": {
+            "username": "null",
+            "fullname": "null",
+            "lang": "null",
+            "permission": "null"
+        }
+    },
+    "permissions": {
+        "0": "default",
+        "1": "admin"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "0": {
+        "number": 1,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4lhmJTKa0XwQymg-Qh2eoZfHzSmLYQACr0MAAkcVyEhx_YUtCdR6pzQE"
+    },
+    "1": {
+        "number": 2,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4lxmJTOL3DAbkkjDxuUvPkvUU2UayAACJ0YAAj2b0UhhNj16ZfT-HDQE"
+    },
+    "2": {
+        "number": 3,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4mRmJTQJjnAD7vDUcjZtn7om0nDxLAACdU4AAvsOyUhRf3U0-7oOVTQE"
+    },
+    "3": {
+        "number": 4,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4mZmJTQXr9bsL1hgdiIv1qwOhOoylwACCksAAtwjyEiKUkc3g88mjjQE"
+    },
+    "4": {
+        "number": 5,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4mhmJTQdQyA93a5USSbI7GbDRzJHDQACjkQAAnWayEiiVH6BHhnIiTQE"
+    },
+    "5": {
+        "number": 6,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4mpmJTQkln2zo7KgKRdmWNEmxeP5AgACZEsAAica0UjYZF7nhLzU2jQE"
+    },
+    "6": {
+        "number": 7,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4mxmJTQr0V2qsO50UTJJaCMyQsmDtgACOEYAAkx-yEg7x4AAAdL17jw0BA"
+    },
+    "7": {
+        "number": 8,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4nBmJTQ6akh7eUeiP6E5g_vupC7JXQACm08AAuRn0Eh4KnQNXsDuxzQE"
+    },
+    "8": {
+        "number": 9,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4nJmJTRErATR3nX2k2NOcCKBA17GlAAC_kkAAvPGyEgfEkccYeQU2zQE"
+    },
+    "9": {
+        "number": 10,
+        "range": 1,
+        "sticker": "CAACAgIAAxkBAAEE4nRmJTRJwdgPTcCIe0oIl_wXvNQeNAACSUwAArACyUjpOmFzko5FfTQE"
+    },
+    "10": {
+        "number": 1,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4nhmJTROm5dRl74yK6OPrfMw1_vbkwACy0UAApO7yEhUXQyHhmYAAYY0BA"
+    },
+    "11": {
+        "number": 2,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4npmJTRXU6Tk2itWojHK4jeD-D8XUgACLUkAAkktyUgppFsDAAEya6Y0BA"
+    },
+    "12": {
+        "number": 3,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4nxmJTRcyZJ0IemF2lCRZQfM0AABQ4gAAiJFAAKs5dBIP5ixCyB_A600BA"
+    },
+    "13": {
+        "number": 4,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4n5mJTRniOuPJMhExYWyg19tjCuHeAACI0cAAt4CyEjjQ6u_XVg5VDQE"
+    },
+    "14": {
+        "number": 5,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4oBmJTRvTpyPuhLyQwebdGFiNBnI7gACFUoAAl6eyUgozQ983nd4HzQE"
+    },
+    "15": {
+        "number": 6,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4oZmJTR4SVCnY2OXZCbS1uNCbvqSXAACFkYAArAmyUijn8U2G3rMyDQE"
+    },
+    "16": {
+        "number": 7,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4ohmJTR_Sooz5m2HAhNg85FPEmjUygACLEkAAjzlyEioVuq3mJYkOTQE"
+    },
+    "17": {
+        "number": 8,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4opmJTSELS7P4zQ41wTde7V7oKWUlgACQEUAAmjlyUgitCbf_ofRKzQE"
+    },
+    "18": {
+        "number": 9,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4oxmJTSMdwuce9FMXHSlYsDyWYd1uAACFkQAArQb0EheDT-9BQK0eTQE"
+    },
+    "19": {
+        "number": 10,
+        "range": 2,
+        "sticker": "CAACAgIAAxkBAAEE4pBmJTSRQZ4RTHc-oX-rfWOMoy9b0gAC0EoAAmP3yEhg626OeyeKUTQE"
+    },
+    "20": {
+        "number": 1,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4pJmJTSX1kRC10LXO0o1_DoYK5v2HQACSUsAAgE9yUgB375gwfwt3zQE"
+    },
+    "21": {
+        "number": 2,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4pRmJTSbew0Un1NQOU1DjPpnbDGr-QACvkgAAiPJ0Eh6kNFsxHW0szQE"
+    },
+    "22": {
+        "number": 3,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4pZmJTSotVpoudaPXmlL_4UOzNQiLwACHkkAAq3j0UjVyklL7sqGkTQE"
+    },
+    "23": {
+        "number": 4,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4phmJTS0jUYPTgt9NT9-CNV4dPnzzAADRwACpQTJSKq9xJjFF_biNAQ"
+    },
+    "24": {
+        "number": 5,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4pxmJTTAVpFLyg5oZp8bbD2wo7P3xwACs0sAAk3WyEg5tpntBpJYAzQE"
+    },
+    "25": {
+        "number": 6,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4p5mJTTIHKisTh94HlHp1R4aem805wAC10oAAhmyyUgyVIx-HZCCnDQE"
+    },
+    "26": {
+        "number": 7,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4qBmJTTOtjL0j_oiqC6LTUUphatGLQAC8UUAAtIEyEgoaTwgzyOGfzQE"
+    },
+    "27": {
+        "number": 8,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4qRmJTTTg6oIuHr7Ehaez9PRg-t3QQACo0MAAm1-yUiehPMfeJrEHzQE"
+    },
+    "28": {
+        "number": 9,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4qZmJTTaQpCe-lay1gzK3QWnjhgpNAACy0cAAhloyUi3wHTg1xLwMDQE"
+    },
+    "29": {
+        "number": 10,
+        "range": 3,
+        "sticker": "CAACAgIAAxkBAAEE4qhmJTTm27j235EbmW89kimU_Pib9wACPUcAAhuK0UhRs_Ca5MvWAzQE"
+    }
+}
